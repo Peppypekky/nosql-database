@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6644b95bfaf967b4bbb298a9"
+  },
+  "Customer_id": 144,
+  "First_name": "Janet",
+  "Last_name": "Philip",
+  "Email": "abc@gmail.com",
+  "SSN": 10001,
+  "Mobile": 1234,
+  "State_name": "Salford",
+  "State_addrev": "1111"
+},
+{
+  "_id": {
+    "$oid": "6644b992faf967b4bbb298aa"
+  },
+  "Reservation_id": 123,
+  "VIN": 111,
+  "Amount": "$12,000",
+  "Pickup_date": "May, 6th 2024",
+  "Return_date": "June, 6th 2024",
+  "Location_id": "067",
+  "Customer_id": "SAN012"
+},
+{
+  "_id": {
+    "$oid": "6644b9adfaf967b4bbb298ab"
+  },
+  "VIN": 112,
+  "Model": "SUV 2024",
+  "Brand": "Ford",
+  "Color": "Black",
+  "Description": "2024 suv model to be returned on the set date",
+  "Date_of_Purchase": "Feburary, 1st 2024",
+  "Category_id": "000567"
+},
+{
+  "_id": {
+    "$oid": "6644b9cdfaf967b4bbb298ac"
+  },
+  "Category_id": "000567",
+  "Label": "ford",
+  "Description": "do not disclose"
+},
+{
+  "_id": {
+    "$oid": "6644b9f0faf967b4bbb298ad"
+  },
+  "Location_id": "6789",
+  "Street": "califonia",
+  "Str_number": "Number 15",
+  "City": "Leeds",
+  "Country": "United Kingdom",
+  "State_name": "machester",
+  "State_addrev": "Unity avenue"
+},
+{
+  "_id": {
+    "$oid": "6644ba16faf967b4bbb298ae"
+  },
+  "Phone_number": "0786532",
+  "Location_id": "1233"
+}]

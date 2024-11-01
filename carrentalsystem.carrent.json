@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "6618feaee2ef27afdbe83e11"
+  },
+  "name": "john",
+  "phonenumber": 12345
+},
+{
+  "_id": {
+    "$oid": "6618ff2ce2ef27afdbe83e12"
+  },
+  "cardnumber": 1234,
+  "expirydate": "january",
+  "bank": "revolute"
+},
+{
+  "_id": {
+    "$oid": "6618ffe2e2ef27afdbe83e13"
+  },
+  "seller": "userid",
+  "buyer": "userid"
+},
+{
+  "_id": {
+    "$oid": "66190012e2ef27afdbe83e14"
+  },
+  "cardnumber": 1234,
+  "userid": "ust123",
+  "organisation": "tesco"
+},
+{
+  "_id": {
+    "$oid": "6619027fe2ef27afdbe83e16"
+  },
+  "addrid": 22,
+  "userid": 33,
+  "name": "John",
+  "contactphonenumber": 11234,
+  "province": "leeds",
+  "city": "machester",
+  "streetadr": "swiss",
+  "postalcode": 111
+},
+{
+  "_id": {
+    "$oid": "6619036ee2ef27afdbe83e17"
+  },
+  "sid": 222,
+  "name": "tesco",
+  "province": "leeds",
+  "city": "machester",
+  "streetadr": "Swiss",
+  "customergrade": 45,
+  "startTime": "Feburary"
+},
+{
+  "_id": {
+    "$oid": "6619040fe2ef27afdbe83e18"
+  },
+  "brandname": "Addidas"
+},
+{
+  "_id": {
+    "$oid": "6619043de2ef27afdbe83e19"
+  },
+  "pid": 111,
+  "sid": 23,
+  "brand": "addidas",
+  "name": "John",
+  "type": "shoe",
+  "modelnumber": 234,
+  "color": "blue",
+  "amount": "$15",
+  "price": "$10"
+},
+{
+  "_id": {
+    "$oid": "66190594e2ef27afdbe83e1a"
+  },
+  "itemid": 333,
+  "pid": 23,
+  "price": "$10",
+  "creationTime": "March"
+},
+{
+  "_id": {
+    "$oid": "6619060ee2ef27afdbe83e1b"
+  },
+  "ordernumber": 23,
+  "paymentstate": "leeds",
+  "creationtime": "March 16th",
+  "totalamount": "$25"
+},
+{
+  "_id": {
+    "$oid": "661906bce2ef27afdbe83e1c"
+  },
+  "creationtime": "March 16th",
+  "userid": 23,
+  "pid": 34,
+  "grade": "first",
+  "content": "shoe"
+}]

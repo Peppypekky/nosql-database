@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "6644cc65faf967b4bbb298b1"
+  },
+  "Payment": {
+    "id": 111,
+    "cardnumber": "009891456",
+    "amount": "20 pounds",
+    "customer_id": "san124",
+    "dish_id": 1222,
+    "quantity": "2 portion",
+    "date": "April, 2024"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d059faf967b4bbb298b2"
+  },
+  "Users": {
+    "name": "John",
+    "password": "ress123",
+    "user_id": 111
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d0a4faf967b4bbb298b3"
+  },
+  "Order": {
+    "id": 111,
+    "details": "pizza with topping",
+    "order_type": "snack"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d109faf967b4bbb298b4"
+  },
+  "Customer": {
+    "id": 111,
+    "name": "John",
+    "cardnumber": "009854231",
+    "phone": "0907512376",
+    "address": "5th avenue Leeds"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d176faf967b4bbb298b5"
+  },
+  "Admin": {
+    "Role": "Manager"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d274faf967b4bbb298b6"
+  },
+  "Menu": {
+    "id": 111,
+    "details": "Pizza with toppings",
+    "List_of_dishes": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d2d3faf967b4bbb298b7"
+  },
+  "Salesman": {
+    "Jobtitle": "Sales rep"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d305faf967b4bbb298b8"
+  },
+  "Dish": {
+    "dish_id": 123,
+    "dish_name": "pizza",
+    "dish_category": "cat A",
+    "dish_price": "5 pounds"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644d361faf967b4bbb298b9"
+  },
+  "Stock": {
+    "id": 111,
+    "date_entry": "April, 2024",
+    "quantity": "2 portions",
+    "dish_id": 123
+  }
+}]
